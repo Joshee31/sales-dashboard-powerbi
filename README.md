@@ -3,6 +3,9 @@
 VanArsdel Sales and Marketing Dashboard
 This Power BI dashboard showcases the Sales and Marketing sample of VanArsdel, a fictitious manufacturing company. The dashboard provides valuable insights on the company's market share, product volume, and sales.
 
+![image](https://user-images.githubusercontent.com/113781636/231449899-6bf6d249-56a3-4820-8505-8491202baf5b.png)
+
+
 Credits
 I want to thank DataSense Analytics for conducting the Power BI Desktop Masterclass which equipped me with the skills to create this dashboard.
 
