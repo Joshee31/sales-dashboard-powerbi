@@ -14,7 +14,7 @@ I want to thank DataSense Analytics for conducting the Power BI Desktop Mastercl
 
 This is just the beginning as I plan to create more data-driven solutions that can help businesses make informed decisions. Stay tuned for my next portfolio which will feature my own data or data from another source.
 
-***Contact Information***
+**Contact Information**
 
 If you have any questions or feedback on the dashboard, feel free to contact me at joshuakun_1031@yahoo.com.
 
